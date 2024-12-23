@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevinMcLaugh2104
 - 👀 I’m interested in ... Software Engineering and mobile development
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... C++, Kotlin
 - 💞️ I’m looking to collaborate ... on a substantial project to help my portfolio
 - 📫 How to reach me ... email me at devin.mclaughlin21@gmail.com
 - ⚡ Fun fact: ... I am a volunteer firefighter
